@@ -1,0 +1,10 @@
+[package]
+name = "index"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+clickrs = "0.1.5"
+parquet = "52.2.0"
+structopt = "0.3.26"
+sysinfo = "0.31.2"
